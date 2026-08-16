@@ -1,0 +1,8 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "research"
+    url: /research/
+  - title: "CV"
+    url: "/files/BrachtCV_8.14.2026.pdf"
+    target: "_blank"
