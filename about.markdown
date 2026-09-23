@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Liz! I am the lab coordinator for the Cooperation Lab at Boston College,
+where I work with Dr. Katie McAuliffe.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m interested in the development of existential cognition and how it affects 
+moral and social judgements. I am also interested in how children learn,
+develop, and reason about understandings of related concepts including love,
+death, technology, and politics. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of research, I enjoy reading, working out, attempting to learn new
+craft forms, and seeing art in its many forms!
 
+Currently reading: Autumn, Karl Ove Knausgård
+Last book I loved: Beautyland, Marie-Helene Bertino
 
-[jekyll-organization]: https://github.com/jekyll
+Email: brachte@bc.edu
