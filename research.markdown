@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-## Current Research Projects
+# Current Research Projects
 
-# Does reaching reveal conflict in children’s fairness decision-making?
+## Does reaching reveal conflict in children’s fairness decision-making?
 
 While there is a well-established gap between children’s early-emerging 
 understanding of fairness and their later-emerging fairness behavior, *how*
@@ -20,7 +20,7 @@ make the decisions they do.
 *with Dr. Katie McAuliffe and Dr. Craig Chapman*
 
 
-# Do costly signaling opportunities affect children’s third-party punishment?
+## Do costly signaling opportunities affect children’s third-party punishment?
 
 Both adults and children engage in costly third-party punishment (TPP) of
 unequal resource distributions, highlighting a willingness to take a normative 
@@ -35,7 +35,7 @@ pro-social behavior, as a stronger signal when it’s available.
 *with Dr. Katie McAuliffe and Dr. Paul Deutchman*
 
 
-# A cognitive load manipulation for children
+## A cognitive load manipulation for children
 
 Cognitive load manipulations are useful tools for differentiating the cognitive 
 processes that are more effortful from those that are more automatic. This 

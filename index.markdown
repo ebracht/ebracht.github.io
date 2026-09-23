@@ -9,8 +9,16 @@ title: Home
 #first ![image description](/name of the actual file)
 ---
 
-This is my homepage! 
+```css
+body {
+  font-size: 100%;
+  This is my homepage! 
 
 I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
-![Liz Bracht](/files/Liz.jpg)
+![Liz Bracht](/files/Liz.webp)
+}
+```
+
+
+
