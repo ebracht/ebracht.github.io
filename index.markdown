@@ -9,16 +9,11 @@ title: Home
 #first ![image description](/name of the actual file)
 ---
 
-```css
-body {
-  font-size: 100%;
-  This is my homepage! 
+# Hello and welcome to my website!
 
-I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
+I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
 ![Liz Bracht](/files/Liz.webp)
-}
 ```
 
-
-
+In most cases, people, even wicked people, are far more naive and simple-hearted than one generally assumes. And so are we. — Fyodor Dostoevsky, The Brothers Karamazov

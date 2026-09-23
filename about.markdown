@@ -4,18 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Liz! I am the lab coordinator for the Cooperation Lab at Boston College,
-where I work with Dr. Katie McAuliffe.
+<div class="container">
+    <header>
+        <div class="logo">Liz Bracht</div>
+        <nav>
+            <a href="#">about</a>
+            <a href="#">research</a>
+            <a href="#">CV</a>
+        </nav>
+    </header>
 
-I’m interested in the development of existential cognition and how it affects 
-moral and social judgements. I am also interested in how children learn,
-develop, and reason about understandings of related concepts including love,
-death, technology, and politics. 
+    <main>
+        <h1>Hi, I'm Liz!</h1>
+        <p>I am the lab coordinator for the Cooperation Lab at Boston College...</p>
+        <p>I'm interested in the development of existential cognition...</p>
+        <p>Outside of research, I enjoy reading, working out...</p>
+        
+        <div class="reading-list">
+            <p><strong>Currently reading:</strong> Autumn, Karl Ove Knausgård</p>
+            <p><strong>Last book I loved:</strong> Beautyland, Marie-Helene Bertino</p>
+        </div>
 
-Outside of research, I enjoy reading, working out, attempting to learn new
-craft forms, and seeing art in its many forms!
-
-Currently reading: Autumn, Karl Ove Knausgård
-Last book I loved: Beautyland, Marie-Helene Bertino
-
-Email: brachte@bc.edu
+        <div class="contact-info">
+            <p><strong>Email:</strong> brachte@bc.edu</p>
+        </div>
+    </main>
+</div>
