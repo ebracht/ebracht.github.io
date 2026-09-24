@@ -17,9 +17,9 @@ permalink: /about/
     Outside of research, I enjoy reading, working out, attempting to learn new
     crafts, and appreciating art in its many form!
         
-        ## Currently reading: ## Autumn, Karl Ove Knausgård
-        ## Last book I loved: ## Beautyland, Marie-Helene Bertino
+        Currently reading: Autumn, Karl Ove Knausgård
+        Last book I loved: Beautyland, Marie-Helene Bertino
        
        
        
-       ## Contact Me: ##brachte@bc.edu
+       Contact Me: brachte@bc.edu
