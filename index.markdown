@@ -15,5 +15,3 @@ I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), 
 
 ![Liz Bracht](/files/Liz.webp)
 ```
-
-In most cases, people, even wicked people, are far more naive and simple-hearted than one generally assumes. And so are we. — Fyodor Dostoevsky, The Brothers Karamazov
