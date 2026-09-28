@@ -9,7 +9,7 @@ title: Home
 #first ![image description](/name of the actual file)
 ---
 
-<div align="left" style="max-width: 600px; margin: 0 auto; text-align: left;" markdown="1">
+<div style="max-width: 200px; margin-right: auto; text-align: left;" markdown="1">
 
 # Welcome to my website!
 
