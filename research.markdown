@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<div align="left" style="max-width: 800px; margin: 0 auto; text-align: left;" markdown="1">
+<div align="left" style="max-width: 600px; margin: 0 auto; text-align: left;" markdown="1">
 
 # Current Research Projects
 
@@ -52,7 +52,7 @@ whether initial results were an effect of load or merely auditory distraction.
 *with Dr. Katie McAuliffe and Dr. Yarrow Dunham*
 
 
-# How and when do children internalize moral norms?
+## How and when do children internalize moral norms?
 
 We are measuring participants' third-party evaluatations of others who have 
 made decisions for external reasons or for internal reasons to---in addition to 
