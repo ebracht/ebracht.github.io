@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+<div align="left" style="max-width: 800px; margin: 0 auto; text-align: left;" markdown="1">
+
 # Current Research Projects
 
 ## Does reaching reveal conflict in children’s fairness decision-making?
@@ -60,6 +62,5 @@ based on internal and external motivations.
 
 *with Dr. Katie McAuliffe*
 
-
-
+<div>
 
