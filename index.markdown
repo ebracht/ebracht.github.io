@@ -9,12 +9,9 @@ title: Home
 #first ![image description](/name of the actual file)
 ---
 
-<div style="max-width: 200px; margin-right: auto; text-align: left;" markdown="1">
 
 # Welcome to my website!
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
 ![Liz Bracht](/files/Liz.webp)
-
-<div>
