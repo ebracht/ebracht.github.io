@@ -29,9 +29,9 @@ I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), 
 <div>
 
 <div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
-  <img src="https://i.ibb.co/WWtqsKRn/image.jpg" 
-       onmouseout="this.src='https://i.ibb.co/WWtqsKRn/image.jpg'" 
-       onmouseover="this.src='https://i.ibb.co/rR8d1zbh/image.jpg'" 
+  <img src="https://i.postimg.cc/c4KFmGx9/Bracht-Current.jpg" 
+       onmouseout="this.src='https://i.postimg.cc/c4KFmGx9/Bracht-Current.jpg'" 
+       onmouseover="this.src='https://i.postimg.cc/13wMk0Nn/Bracht-Young.jpg'" 
        alt="liz picture" 
        style="width: 100%; height: 100%; object-fit: cover;">
 </div>
