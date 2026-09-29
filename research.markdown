@@ -58,11 +58,16 @@ whether initial results were an effect of load or merely auditory distraction.
 
 ## How and when do children internalize moral norms?
 
-We are measuring participants' third-party evaluatations of others who have 
+While we know much about the cooperative choice children make and how these 
+develop; however, we know less about *why* children choose to cooperate. While 
+some work points to external factors as potential motivators, this work seeks to
+explore how internal motives—norms that have been internalized and integrated 
+into a person’s identity—drive cooperative choices. In one study, we are 
+measuring participants' third-party evaluatations of others who have 
 made decisions for external reasons or for internal reasons to---in addition to 
 understanding when and how one's beahvior changes to reflect this 
-internalization---explore how children and adults judge others’ actions
-based on internal and external motivations. 
+internalization---explore how children and adults judge others’ moral choices
+based on differing internal and external motivations. 
 
 *with Dr. Katie McAuliffe*
 
