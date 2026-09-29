@@ -27,6 +27,6 @@ title: Home
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
-<img src="https://i.ibb.co/v4KJ5Lvn/Liz.jpg" alt="Liz Bracht" width="400" height="300">
+<a href="URL ADDRESS"><img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" /></a>
 
 <div>
