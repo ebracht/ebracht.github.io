@@ -31,8 +31,7 @@ I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), 
      onmouseout="this.src='https://i.ibb.co/VcNKTKQK/liz-now.jpg'" 
      onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" 
      alt="liz picture" 
-     style="width: 400px; height: auto; image-rendering: 
-     -webkit-optimize-contrast; image-rendering: crisp-edges;">
+     style="width: 400px; height: auto; object-fit: cover;">
 
      
 <div>
