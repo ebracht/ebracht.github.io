@@ -27,6 +27,6 @@ title: Home
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
-<a href="URL ADDRESS"><img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" /></a>
+<a href="URL ADDRESS"><img src="<a href="https://ibb.co/VcNKTKQK"><img src="https://i.ibb.co/VcNKTKQK/liz-now.jpg" alt="liz-now" border="0"></a>" onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" onmouseout="this.src='<a href="https://ibb.co/VcNKTKQK"><img src="https://i.ibb.co/VcNKTKQK/liz-now.jpg" alt="liz-now" border="0"></a>'" /></a>
 
 <div>
