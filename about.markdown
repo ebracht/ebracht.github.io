@@ -11,7 +11,7 @@ permalink: /about/
 
 Hi, I'm Liz! I am the lab coordinator for the Cooperation Lab at Boston College, where I work with Dr. Katie McAuliffe.
 
-I'm interested in the development of existential cognition and how it affects moral and social judgements. I am also interested in how children learn, develop, and reason about understandings of related concepts including love, death, technology, and politics.
+I am interested in the development of existential cognition and how it affects morality and social identity. I am also interested in how children learn, develop, and reason about understandings of related concepts including love, death, technology, and politics.
 
 Outside of research, I enjoy reading, working out, attempting to learn new crafts, and appreciating art in its many forms!
 
@@ -19,11 +19,9 @@ Outside of research, I enjoy reading, working out, attempting to learn new craft
 
 *Last book I loved:* Beautyland, Marie-Helene Bertino
 
-**Contact Me: brachte@bc.edu**
+**Contact Me: [brachte@bc.edu](mailto:brachte@bc.edu)**
 
 </div>
-
-
 
 
 

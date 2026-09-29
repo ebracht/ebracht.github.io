@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
-
+</br>
 # Current Research Projects
 
 ## Does reaching reveal conflict in children’s fairness decision-making?

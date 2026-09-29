@@ -32,6 +32,6 @@ I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), 
      onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" 
      alt="liz picture" 
      width="400" 
-     height="600">
+     height="auto">
      
 <div>
