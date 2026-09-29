@@ -26,12 +26,12 @@ title: Home
 # Welcome to my website!
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
-
-<img src="https://i.ibb.co/VcNKTKQK/liz-now.jpg" 
-     onmouseout="this.src='https://i.ibb.co/VcNKTKQK/liz-now.jpg'" 
-     onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" 
-     alt="liz picture" 
-     style="width: 400px; height: auto; object-fit: cover;">
-
-     
 <div>
+
+<div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
+  <img src="https://i.ibb.co/VcNKTKQK/liz-now.jpg" 
+       onmouseout="this.src='https://i.ibb.co/VcNKTKQK/liz-now.jpg'" 
+       onmouseover="this.src='https://i.ibb.co/ZpLY4Ffj/IMG-5497.jpg'" 
+       alt="liz picture" 
+       style="width: 100%; height: 100%; object-fit: cover;">
+</div>
