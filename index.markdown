@@ -31,9 +31,7 @@ title: Home
 
 <div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
 
-# Welcome to my website!
-
-I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
+## Welcome to my website!
 
 ![Liz Bracht](/files/Bracht_Current.jpg)
 
