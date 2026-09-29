@@ -40,7 +40,7 @@ title: Home
        onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" 
        onmouseover="this.src='https://i.ibb.co/LyQrQQ8/Liz-B-Baby.jpg'" 
        alt="liz picture" 
-       style="width: 100%; height: 100%; object-fit: cover;">
+       object-fit: cover;">
 </div>
 
 
