@@ -8,7 +8,6 @@ permalink: /research/
 
 # Current Research Projects
 
-**************
 
 ## Does reaching reveal conflict in children’s fairness decision-making?
 

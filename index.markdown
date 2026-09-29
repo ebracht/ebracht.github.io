@@ -8,8 +8,16 @@ title: Home
 #adding an image
 #first ![image description](/name of the actual file)
 #with this, you can't change the image size - need to html...do like lab website?
-#![Liz Bracht](/files/Liz.webp)
+#
 
+#come back to this when I can figure out why the links are weird!
+#<div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
+ # <img src="https://i.ibb.co/NdDTHJ1q/image.jpg" 
+    #   onmouseout="this.src='https://i.ibb.co/NdDTHJ1q/image.jpg'" 
+     #  onmouseover="this.src='https://i.ibb.co/ccLMxTsJ/image.jpg'" 
+     #  alt="liz picture" 
+      # style="width: 100%; height: 100%; object-fit: cover;">
+#</div>
 
 #<div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1"> 
 
@@ -26,12 +34,8 @@ title: Home
 # Welcome to my website!
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
+
+![Liz Bracht](/files/Bracht_Current.jpg)
+
 <div>
 
-<div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
-  <img src="https://i.ibb.co/NdDTHJ1q/image.jpg" 
-       onmouseout="this.src='https://i.ibb.co/NdDTHJ1q/image.jpg'" 
-       onmouseover="this.src='https://i.ibb.co/ccLMxTsJ/image.jpg'" 
-       alt="liz picture" 
-       style="width: 100%; height: 100%; object-fit: cover;">
-</div>

@@ -13,9 +13,9 @@ Hi, I'm Liz! I am the lab coordinator for the Cooperation Lab at Boston College,
 
 I am interested in the development of existential cognition and how it affects morality and social identity. I am also interested in how children learn, develop, and reason about understandings of related concepts including love, death, technology, and politics.
 
-**************
-
 Outside of research, I enjoy reading, working out, attempting to learn new crafts, and appreciating art in its many forms!
+
+**************
 
 Currently reading: *Autumn*, Karl Ove Knausgård
 
