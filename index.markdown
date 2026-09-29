@@ -7,6 +7,18 @@ title: Home
 
 #adding an image
 #first ![image description](/name of the actual file)
+#with this, you can't change the image size - need to html...do like lab website?
+#![Liz Bracht](/files/Liz.webp)
+
+
+#<div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1"> 
+
+#this centers whatever is inside (margin: 0 auto) and aligns it left within block
+#the block can take up a max of 1200px, no margin btw top/bottom of page and block
+#markdown = 1 is just necessary i think ... i was less clear on this one idk
+
+#and then <div> after all text
+
 ---
 
 <div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
@@ -15,6 +27,6 @@ title: Home
 
 I'm Liz, and I work in the [Cooperation Lab](https://www.bccooperationlab.com), and you can learn more about my research [here](/research/).
 
-![Liz Bracht](/files/Liz.webp)
+<img src="https://i.ibb.co/fcttD3F/Liz.webp" alt="Liz Bracht" width="400" height="300">
 
 <div>
