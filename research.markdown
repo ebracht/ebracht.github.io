@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<div align="left" style="max-width: 600px; margin: 0 auto; text-align: left;" markdown="1">
+<div align="left" style="max-width: 1000px; margin: 0 auto; text-align: left;" markdown="1">
 
 # Current Research Projects
 
