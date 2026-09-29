@@ -8,6 +8,8 @@ permalink: /research/
 
 # Current Research Projects
 
+**************
+
 ## Does reaching reveal conflict in children’s fairness decision-making?
 
 While there is a well-established gap between children’s early-emerging 
@@ -21,6 +23,7 @@ make the decisions they do.
 
 *with Dr. Katie McAuliffe and Dr. Craig Chapman*
 
+**************
 
 ## Do costly signaling opportunities affect children’s third-party punishment?
 
@@ -36,6 +39,7 @@ pro-social behavior, as a stronger signal when it’s available.
 
 *with Dr. Katie McAuliffe and Dr. Paul Deutchman*
 
+**************
 
 ## A cognitive load manipulation for children
 
@@ -51,6 +55,7 @@ whether initial results were an effect of load or merely auditory distraction.
 
 *with Dr. Katie McAuliffe and Dr. Yarrow Dunham*
 
+**************
 
 ## How and when do children internalize moral norms?
 
