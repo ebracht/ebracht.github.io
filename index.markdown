@@ -33,7 +33,15 @@ title: Home
 
 ## Welcome to my website!
 
-![Liz Bracht](/files/Bracht_Current.jpg)
-
 <div>
+
+<div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
+  <img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" 
+       onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" 
+       onmouseover="this.src='https://i.ibb.co/LyQrQQ8/Liz-B-Baby.jpg'" 
+       alt="liz picture" 
+       style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
+
 
