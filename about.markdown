@@ -15,9 +15,17 @@ I am interested in the development of existential cognition and how it affects m
 
 Outside of research, I enjoy reading, working out, attempting to learn new crafts, and appreciating art in its many forms!
 
-*Currently reading:* Autumn, Karl Ove Knausgård
+</div>
 
-*Last book I loved:* Beautyland, Marie-Helene Bertino
+<div align="center" style="max-width: 1200px; margin: 0 auto; text-align: center;" markdown="1">
+*********************************************
+</div>
+
+<div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
+
+Currently reading: *Autumn*, Karl Ove Knausgård
+
+Last book I loved: *Beautyland*, Marie-Helene Bertino
 
 **Contact Me: [brachte@bc.edu](mailto:brachte@bc.edu)**
 
