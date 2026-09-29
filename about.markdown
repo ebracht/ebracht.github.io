@@ -7,7 +7,7 @@ title: About
 permalink: /about/
 ---
 
-<div align="left" style="max-width: 1000px; margin: 0 auto; text-align: left;" markdown="1">
+<div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
 
 Hi, I'm Liz! I am the lab coordinator for the Cooperation Lab at Boston College, where I work with Dr. Katie McAuliffe.
 
