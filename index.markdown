@@ -31,6 +31,7 @@ title: Home
 <div style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
 
 ## Welcome to my website!
+Click to learn more about [my interests](/about/), [my current research projects](/research/), and access my [CV](/files/BrachtCV_8.14.2026.pdf).
 
 <div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
 
@@ -41,6 +42,5 @@ title: Home
        style="object-fit: cover; width: auto; height: auto;">
 </div>      
 
-Click to learn more about [my interests](/about/), [my current research projects](/research/), and access my [CV](/files/BrachtCV_8.14.2026.pdf).
 
 </div>
