@@ -45,3 +45,9 @@ title: Home
 
 </div>
 
+<div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
+
+Click to learn more about [my interests](/about/), [my current research projects](/research/), and access my [CV](/CV/).
+
+<div>
+
