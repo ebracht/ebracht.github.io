@@ -32,12 +32,13 @@ title: Home
 
 ## Welcome to my website!
 
-<div style="width: 400px; max-width: 100%; overflow: hidden; position: relative;">
+<div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
+
   <img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" 
        onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" 
        onmouseover="this.src='https://i.ibb.co/LyQrQQ8/Liz-B-Baby.jpg'" 
        alt="liz picture" 
-       style="width: 100%; height: auto; display: block;">
+       style="object-fit: cover; width: auto; height: auto;">
 </div>      
 
 Click to learn more about [my interests](/about/), [my current research projects](/research/), and access my [CV](/files/BrachtCV_8.14.2026.pdf).
