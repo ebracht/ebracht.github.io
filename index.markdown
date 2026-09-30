@@ -36,12 +36,12 @@ title: Home
 <div>
 
 <div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
+
   <img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" 
        onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" 
        onmouseover="this.src='https://i.ibb.co/LyQrQQ8/Liz-B-Baby.jpg'" 
        alt="liz picture" 
-       object-fit: cover;">
+       style="object-fit: cover; width: auto; height: auto;">
+
 </div>
-
-
 
