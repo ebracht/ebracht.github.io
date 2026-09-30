@@ -34,20 +34,14 @@ title: Home
 ## Welcome to my website!
 
 <div>
-
 <div style="width: 400px; height: 560px; overflow: hidden; position: relative;">
-
   <img src="https://i.ibb.co/Zhdk7VM/liznow.jpg" 
        onmouseout="this.src='https://i.ibb.co/Zhdk7VM/liznow.jpg'" 
        onmouseover="this.src='https://i.ibb.co/LyQrQQ8/Liz-B-Baby.jpg'" 
        alt="liz picture" 
        style="object-fit: cover; width: auto; height: auto;">
-
 </div>
-
 <div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
-
 Click to learn more about [my interests](/about/), [my current research projects](/research/), and access my [CV](/CV/).
-
 <div>
 

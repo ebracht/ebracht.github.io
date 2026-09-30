@@ -9,7 +9,7 @@ permalink: /about/
 
 <div align="left" style="max-width: 1200px; margin: 0 auto; text-align: left;" markdown="1">
 
-Hi, I'm Liz! I am the lab coordinator for the [Cooperation Lab](https://www.bccooperationlab.com) at Boston College, where I work with Dr. Katie McAuliffe.
+Hi, I'm Liz! I currently work as the lab coordinator for the [Cooperation Lab](https://www.bccooperationlab.com) at Boston College, where I work with Dr. Katie McAuliffe.
 
 I am interested in the development of existential cognition and how it affects morality and social identity. I am also interested in how children learn, develop, and reason about understandings of related concepts including love, death, technology, and politics.
 
