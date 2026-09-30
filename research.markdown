@@ -58,7 +58,7 @@ whether initial results were an effect of load or merely auditory distraction.
 
 ## How and when do children internalize moral norms?
 
-While we know much about the cooperative choice children make and how these 
+We know much about the cooperative choice children make and how these 
 develop; however, we know less about *why* children choose to cooperate. While 
 some work points to external factors as potential motivators, this work seeks to
 explore how internal motives—norms that have been internalized and integrated 
